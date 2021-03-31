@@ -1,0 +1,7 @@
+prefix: "&c[CraftBlocker]"
+
+prefix-enabled: true
+
+deny-message: "&cYou cant craft this item"
+
+enabled: true

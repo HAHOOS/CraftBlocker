@@ -1,0 +1,17 @@
+name: CraftBlocker
+version: 1.0.beta
+main: plugin.hahoos.pl.Main
+author: HAHOOS
+
+commands:
+  craftblocker:
+    description: Main Command of CraftBlocker Plugin
+    permission: craftblocker.admin
+    permission-message: You do not have permission to use this command.
+
+
+permissions:
+  craftblocker.bypass:
+    description: With this permission you can now craft items
+  craftblocker.admin:
+    description: Do admin favourite things in this plugin
