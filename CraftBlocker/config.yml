@@ -1,7 +1,15 @@
-prefix: "&c[CraftBlocker]"
+prefix: "&c&l[CraftBlocker]"
 
 prefix-enabled: true
 
 deny-message: "&cYou cant craft this item"
+
+crafting:
+  certain-item:
+    items:
+      - BEACON
+    enabled: true
+  everything:
+    enabled: false
 
 enabled: true
