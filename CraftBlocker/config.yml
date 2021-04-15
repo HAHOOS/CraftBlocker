@@ -8,8 +8,10 @@ crafting:
   certain-item:
     items:
       - BEACON
-    enabled: true
-  everything:
     enabled: false
+  everything:
+    enabled: true
 
-enabled: true
+logs:
+  name: "logs"
+  enabled: true
