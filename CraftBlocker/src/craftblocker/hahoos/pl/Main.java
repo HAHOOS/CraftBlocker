@@ -43,7 +43,7 @@ public class Main extends JavaPlugin implements Listener {
 	  console.sendMessage(ChatColor.BLUE + "-------------");
 	  console.sendMessage(ChatColor.BLUE + "Name: CraftBlocker");
 	  console.sendMessage(ChatColor.BLUE + "Author: HAHOOS");
-	  console.sendMessage(ChatColor.BLUE + "Version: 1.0.beta");
+	  console.sendMessage(ChatColor.BLUE + "Version: 1.1");
 	  console.sendMessage(ChatColor.BLUE + "-------------");
 	  
 	  
