@@ -15,3 +15,7 @@ crafting:
 logs:
   name: "logs"
   enabled: true
+  date-format: "yyyy-MM-dd"
+  content:
+    format: "yyyy/MM/dd HH:mm:ss"
+    
