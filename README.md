@@ -45,4 +45,4 @@ craft.removeItemFromBlockedItems(1);
 ## Statistics
 
 ![](http://bstats.org/signatures/bukkit/CraftBlocker.svg)
-More Statistics on https://bstats.org/plugin/bukkit/CraftBlocker/11114
+More Statistics on [bStats](http://bstats.org/plugin/bukkit/CraftBlocker/11114 "bStats")
