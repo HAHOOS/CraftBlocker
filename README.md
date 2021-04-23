@@ -41,4 +41,7 @@ If you want to remove item from blocked items you can use this code:
 ```java
 CraftBlocker craft = new CraftBlocker();
 craft.removeItemFromBlockedItems(1);
-```	    
+```	  
+## Statistics
+
+![](http://bstats.org/signatures/bukkit/CraftBlocker.svg)
