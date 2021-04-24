@@ -49,6 +49,14 @@ craft.removeItemFromBlockedItems(1);
 More Statistics on [bStats](http://bstats.org/plugin/bukkit/CraftBlocker/11114 "bStats")
 
 ## Reviews
-> ! This is a spoiler
+<details><summary>CLICK ME</summary>
+<p>
+
+#### No one make review :(
+
+
+
+</p>
+</details>
 
 
