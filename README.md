@@ -10,10 +10,10 @@ This plugin was created for blocking crafting items
 - API
 
 #### Contributors
-<p>
-HAHOOS: Programmer, Owner
-dobrekSpryciarz: Graphics
-</p>
+
+- HAHOOS: Programmer, Owner
+- dobrekSpryciarz: Graphics
+
 ## API
 
 #### CraftCancel Event
