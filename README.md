@@ -9,6 +9,9 @@ This plugin was created for blocking crafting items
 - Bypass Permissions
 - API
 
+#### Contributors
+HAHOOS: Programmer, Owner
+dobrekSpryciarz: Graphics
 
 ## API
 
