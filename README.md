@@ -22,6 +22,9 @@ This plugin was created for blocking crafting items
 - /craftblocker configuration certainItem enable - Enable Crafting Blocker for certain Items set in config.yml
 - /craftblocker configuration certainItem enable - Enable Crafting Blocker for certain Items set in config.yml
 - /craftblocker configuration certainItem add (MATERIAL) - Add Item to block certain Items list
+
+#### Permissions
+- craftblocker.bypass.* - With this permission you can now craft items
 ## API
 
 #### CraftCancel Event
