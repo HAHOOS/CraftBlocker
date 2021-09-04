@@ -8,12 +8,19 @@ This plugin was created for blocking crafting items
 - Log System
 - Bypass Permissions
 - API
+- bStats Statistics
 
 #### Contributors
 
 - HAHOOS: Programmer, Owner
 - dobrekSpryciarz: Graphics
 
+#### Commands
+/craftblocker configuration reload - Reload configuration files
+/craftblocker configuration everything enable - Enable Crafting Blocker for every item
+/craftblocker configuration everything disable - Disable Crafting Blocker for every item
+/craftblocker configuration certainItem enable - Enable Crafting Blocker for every itemce
+/craftblocker configuration certainItem enable - Enable Crafting Blocker for every item
 ## API
 
 #### CraftCancel Event
