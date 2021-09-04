@@ -16,11 +16,12 @@ This plugin was created for blocking crafting items
 - dobrekSpryciarz: Graphics
 
 #### Commands
-/craftblocker configuration reload - Reload configuration files
-/craftblocker configuration everything enable - Enable Crafting Blocker for every item
-/craftblocker configuration everything disable - Disable Crafting Blocker for every item
-/craftblocker configuration certainItem enable - Enable Crafting Blocker for every itemce
-/craftblocker configuration certainItem enable - Enable Crafting Blocker for every item
+- /craftblocker configuration reload - Reload configuration files
+- /craftblocker configuration everything enable - Enable Crafting Blocker for every item
+- /craftblocker configuration everything disable - Disable Crafting Blocker for every item
+- /craftblocker configuration certainItem enable - Enable Crafting Blocker for certain Items set in config.yml
+- /craftblocker configuration certainItem enable - Enable Crafting Blocker for certain Items set in config.yml
+- /craftblocker configuration certainItem add (MATERIAL) - Add Item to block certain Items list
 ## API
 
 #### CraftCancel Event
